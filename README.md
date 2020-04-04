@@ -1,2 +1,2 @@
 # theartofquirky.github.io
-This repository contains various scripts for PopOS_! and Ubuntu linux.
+This repository contains various scripts for my linux PCs and FreeNAS server.
