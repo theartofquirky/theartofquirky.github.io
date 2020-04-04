@@ -1,2 +1,2 @@
 # theartofquirky/linux
-This repository contains various linux related scripts.
+This repository contains various scripts for my linux pc's.
