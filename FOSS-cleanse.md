@@ -1,4 +1,4 @@
-# Replace commonly used proprietary application with free and open source alternatives, to free yourself from evil corporations that track you
+# Replace commonly used proprietary applications with free and open source alternatives, to free yourself from evil corporations!
 
 ## Google Drive
 * I store all my files on a `FreeNAS` home server and synchronise photos and other files with other devices using `syncthing`
