@@ -35,17 +35,20 @@ Another good option is `KeePass`, but you have to save your password file locall
 ## Social networking
 If you want to keep in touch with family and close friends, I recommend `Mastodon` is an excellent alternative to Zuckbook. There is the `Tusky` mobile client which is available from `Play Store` and `F-Droid`.
 
-## Instant Messagging / SMS
+## Instant messagging / SMS
 I use `Signal` which is nice and simple. Don't use `Facebook Messenger` / `Whatsup` and other things like that.
 
 ## Mobile app stores
 `F-Droid` has a great selection of apps, check it out. For example I found `NewTube` which an excellent youtube client which allows you to subscribe to channels without logging in.
 
-## Google Maps
+## Google maps
 Unfortunately this is an area where proprietary wins! I have not found a good alternative, especially for navigation.
 
 ## Android
 `LineageOS` is excellent, however it is not as easy to install. 
+
+## Ad blocking
+I run `PiHole` installed on a virtual maching running on my `FreeNAS` server. You can also install it on a `Rasperry Pi` if you don't have a server. `Blokada` is also great on mobiles, available from `F-Droid`.
 
 ### Special mention for email clients
 `Protonmail` is pretty good but unfortunatelly they have not made their client available from `F-Droid`. For that reason I recommend using `Tutanota`.
