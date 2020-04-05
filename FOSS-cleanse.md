@@ -1,12 +1,13 @@
-# Replace commonly used proprietary applications with free and open source alternatives, to free yourself from evil corporations!
+# Replace commonly used proprietary applications with free and open source alternatives!
 
-## Google Drive
-* I store all my files on a `FreeNAS` home server and synchronise photos and other files with other devices using `syncthing`
-* You can run `syncthing` either on a virtual machine or on a jail on your server. For the jail option you can just install `syncthing` from the list of available plugins;
-* Another option is to run a `Nextcloud` jail on your `FreeNAS` server. There is an android app available which allows you to link it with your mobile phone. The only downside is that it is a bit complicated to set it up over the internet, but it is still a really good option for synchronising when you are on your home network.
+## Cloud storage / Google Drive
+* I store all my files on a `FreeNAS` home server and sync them with other devices using `syncthing`
+* You can run `syncthing` either on a virtual machine or on a jail on your server. 
+* For the jail option you can just install `syncthing` from the list of available plugins;
+* Another option is to run a `Nextcloud` jail on your `FreeNAS` server. There is an android app available which allows you to link it with your mobile phone. It is a bit complicated to set up over the internet, and less safe. I prefer to use it for syncing documents to my phone over my home network.
 
 ## Google Photos
-Same as above. You can even set up `syncthing` on a Raspberry Pi if you don't want to set up a bulky pc as your home server. You can sync across multiple devices and you can even set up a special share folder with your extended family. You can keep it easy for them and connent the Pi to their TV so they can easily see the files you share.
+Same as above. You can even set up `syncthing` on a Raspberry Pi if you don't want to set up a bulky pc as your home server. You can sync across multiple devices and you can even set up a share folder with your extended family. Keep it easy for them and get a second RPi for
 
 ## Microsoft Word / Excel / Powerpoint
 MS Office is pretty good for productivity, however `LibreOffice` is a more than good enough alternative for home use and even pretty good for the most part for work. Honestly if you are creating simple documents, this is all you need.
