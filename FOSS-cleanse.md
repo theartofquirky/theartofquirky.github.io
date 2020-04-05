@@ -1,4 +1,5 @@
 # Replace commonly used proprietary applications with free and open source alternatives!
+Free proprietary software like what you get from Google can be really excellent, however since you are getting it for free, you paying for by allowing your data to be mined. Is this a fair deal? Possibly, given the success of Google, Facebook etc. apparently personal data is pretty valuable. It's for you to decide. If you are looking for FOSS alternatives, then have a look at my list:
 
 ## Cloud storage / Google Drive
 I store all my files on a `FreeNAS` home server and sync them with other devices using `syncthing`.
