@@ -51,6 +51,9 @@ Unfortunately this is an area where proprietary wins! I have not found a good al
 ## Ad blocking
 I run `PiHole` installed on a virtual maching running on my `FreeNAS` server. You can also install it on a `Rasperry Pi` if you don't have a server. `Blokada` is also great on mobiles, available from `F-Droid`.
 
+### Special mention for UEFI/BIOS
+`Coreboot` is open source firmware. You can install it yourself on your laptop, however the easiest way to get it is to get a laptop from `System76`, which you should because they're awesome (not sponspored!).
+
 ### Special mention for email clients
 `Protonmail` is pretty good but unfortunatelly they have not made their client available from `F-Droid`. For that reason I recommend using `Tutanota`.
 
