@@ -35,9 +35,6 @@ Another good option is `KeePass`, but you have to save your password file locall
 ## Social networking
 If you want to keep in touch with family and close friends, I recommend `Mastodon` is an excellent alternative to Zuckbook. There is the `Tusky` mobile client which is available from `Play Store` and `F-Droid`.
 
-## Google Mail / Email clients
-`Protonmail` is pretty good but unfortunatelly they have not made their client available from `F-Droid`. For that reason I recommend using `Tutanota`.
-
 ## Instant Messagging / SMS
 I use `Signal` which is nice and simple. Don't use `Facebook Messenger` / `Whatsup` and other things like that.
 
@@ -49,6 +46,9 @@ Unfortunately this is an area where proprietary wins! I have not found a good al
 
 ## Android
 `LineageOS` is excellent, however it is not as easy to install. 
+
+### Special mention for email clients
+`Protonmail` is pretty good but unfortunatelly they have not made their client available from `F-Droid`. For that reason I recommend using `Tutanota`.
 
 ### Special mention for Linux Gaming
 `Steam` runs perfectly on linux and with the `Proton API` you can now run pretty much most of game library on Linux.
